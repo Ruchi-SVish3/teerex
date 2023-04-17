@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/teerex/static/css/main.d00a8afd.css",
+    "main.js": "/teerex/static/js/main.549949de.js",
+    "static/js/787.c864df50.chunk.js": "/teerex/static/js/787.c864df50.chunk.js",
+    "index.html": "/teerex/index.html",
+    "main.d00a8afd.css.map": "/teerex/static/css/main.d00a8afd.css.map",
+    "main.549949de.js.map": "/teerex/static/js/main.549949de.js.map",
+    "787.c864df50.chunk.js.map": "/teerex/static/js/787.c864df50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d00a8afd.css",
+    "static/js/main.549949de.js"
+  ]
+}
